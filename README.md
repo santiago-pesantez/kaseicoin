@@ -19,6 +19,11 @@ The crowdsale contract will manage the entire crowdsale process, allowing users 
 *Deploy the Crowdsale to a Local Blockchain.*
 
 
+![3](/imgs/9.png)
+
+*Minting KaseiCoin.*
+
+
 ---
 
 ## License
